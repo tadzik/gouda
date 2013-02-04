@@ -2,7 +2,7 @@
 % John M. Gabriele
 % 2013-02-03
 
-**An Easy-to-Use General-Purpose Documentation Processing Tool**
+### An Easy-to-Use General-Purpose Documentation Processing Tool
 
 Gouda is a small command-line program which generates easily-navigable
 html from a handful of Markdown-formatted text files. Under the hood,
