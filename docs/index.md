@@ -4,8 +4,6 @@
 
 **An Easy-to-Use General-Purpose Documentation Processing Tool**
 
-*by [John Gabriele](/index.html)*
-
 Gouda is a small command-line program which generates easily-navigable
 html from a handful of Markdown-formatted text files. Under the hood,
 it uses [Pandoc](http://johnmacfarlane.net/pandoc/) to do the
