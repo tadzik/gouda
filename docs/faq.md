@@ -50,6 +50,7 @@ Because Pandoc:
 
   * supports tables, definition lists, footnotes, and $\LaTeX$ math
   * supports syntax highlighting
+  * is high-quality and reliable
   * is actively maintained
   * supports the command-line options that Gouda requires
   * runs fast
