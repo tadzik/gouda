@@ -15,6 +15,9 @@ might include:
   * some docs were written once, but they got out of date
   * writing a full manual is a large task and takes a lot of
     motivation to get started
+  * the developer is hesitant to invest time into and possibly get
+    tied down to any one particular language-, project-, or
+    technology-specific doc format or toolset
   * the developer simply doesn't like writing docs, and the job
     keeps getting pushed to the bottom of the todo list
 
@@ -86,10 +89,10 @@ Here's how Gouda can help create good docs for your project:
     [Cheeseshop](http://cheeseshop.python.org)) will host plain html
     files like this for you.
 
- 7. Using Gouda doesn't actually tie you to any one particular
-    documentation tool. It's just a simple script that happens to use
-    Pandoc for its Markdown file processing (see the [faq](faq.html)
-    for reasons why I chose to use Pandoc).
+ 7. Using Gouda doesn't tie you to continued use of Gouda; it's just a
+    simple script that happens to use Pandoc for its Markdown file
+    processing (see the [faq](faq.html) for reasons why I chose to use
+    Pandoc).
 
 [^1]: Well, almost automatically; you'd also need to add the file to
 your toc.conf.
