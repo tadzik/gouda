@@ -430,7 +430,7 @@ sub get_doc_title_from {
     my $title = $lines[0];
     if ($title !~ m/^% /) {
         say "** The first line of $doc_name should look something like";
-        say "** this: \"# The Title\" (a hash mark, space, and the title).";
+        say "** this: \"% The Title\" (a percent sign, space, and the title).";
         say "** That is, it should constitute a Pandoc title block.";
         say "** Please fix. Exiting.";
         exit;
