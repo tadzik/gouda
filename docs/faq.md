@@ -48,7 +48,7 @@ have the nice enhancements that Pandoc provides.
 
 Because Pandoc:
 
-  * supports tables, definition lists, footnotes, and $\LaTeX$ math
+  * supports tables, definition lists, line blocks, footnotes, and $\LaTeX$ math
   * supports syntax highlighting
   * is high-quality and reliable
   * is actively maintained
